@@ -12,7 +12,7 @@
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  ## 🚀 **Technology and dependencies** 🚀
+  ## 🚀 **Technology and dependencies* 🚀
 
   <ul> <li><a href="https://reactjs.org" rel="nofollow">React</a> </li></ul>
   <ul> <li><a href="https://classic.yarnpkg.com/lang/en/" rel="nofollow">Yarn</a> </li></ul>
